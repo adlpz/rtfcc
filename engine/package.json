@@ -1,0 +1,10 @@
+{
+  "name": "rtfcc",
+  "description": "The engine that powers rtf.cc",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mustache": "0.7.x",
+    "showdown": "0.3.x"
+  }
+}
